@@ -17,7 +17,7 @@ sidebar-avatar: /img/avatar-stanlei.jpg      # use absolute URL, seeing it's use
 
 
 # SNS settings
-RSS: true
+RSS: false
 # weibo_username:     
 # zhihu_username:     
 github_username:    stan-lei
